@@ -47,3 +47,9 @@ List of operations and their syntax:
     > compress path_to_file path_to_destination
   - Decompress file
     > decompress path_to_file path_to_destination
+
+## Technologies:
+
+- LTS NodeJS 18.\*.
+- Utilize Streams API
+- No external dependencies
