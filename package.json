@@ -1,0 +1,26 @@
+{
+  "name": "file-manager",
+  "version": "1.0.0",
+  "description": "nodeJS file manager cli",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./bin/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NazarSavchuk/node-nodejs-basics.git"
+  },
+  "type": "module",
+  "keywords": [
+    "nodejs",
+    "cli",
+    "file",
+    "manager"
+  ],
+  "author": "Nazar Savchuk [nazarsavcuk3@gmail.com]",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NazarSavchuk/node-nodejs-basics/issues"
+  },
+  "homepage": "https://github.com/NazarSavchuk/node-nodejs-basics#readme"
+}
